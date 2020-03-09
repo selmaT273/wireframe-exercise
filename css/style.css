@@ -57,3 +57,12 @@ header .nav-item {
     background-color: black;
     padding: 10px;
 }
+
+#bottom-row {
+    padding-bottom: 30px;
+}
+
+footer {
+    background-color: darkgray;
+    height: 100gitpx;
+}
