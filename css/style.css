@@ -1,0 +1,68 @@
+header {
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+#nav-wrapper, #middle-images, #bottom-row {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nav-items {
+    padding-bottom: 30px;
+}
+
+header .nav-item {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+
+.top-image {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#middle-images {
+    margin-bottom: 30px;
+}
+
+#middle-images img:nth-child(2) {
+    
+    padding-left: 30px;
+    padding-right: 22px;
+} 
+
+#bottom-row p {
+    overflow: scroll;
+    height: 336px;
+    margin-bottom: 30px;
+}
+
+#bottom-row #text-area {
+    display: inline-block;
+    width: 450px;
+    height: 400px;
+    float: right;
+
+}
+
+#text-area button {
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+#bottom-row {
+    padding-bottom: 30px;
+}
+
+footer {
+    background-color: darkgray;
+    height: 100gitpx;
+}
